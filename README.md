@@ -1,4 +1,12 @@
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on an English learning product called **DET-Quick**.
+- 🛠️ Tech stack: **React** and **Spring Boot/Java**.
+- 🚀 Hoping to release it this year and attract a large user base! 😄
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/linawuthu/).
+
 
 <!--
 **wulin-no2/wulin-no2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
