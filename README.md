@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on an English learning product called **DET-Quick**.
 - 🛠️ Tech stack: **React** and **Spring Boot/Java**.
 - 🚀 Hoping to release it this year and attract a large user base! 😄
+- 🙋🏻‍♀️ Working on my **blog** from 15/07/2024: [Lina's Playground](https://wulin-no2.github.io).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/linawuthu/).
 <div align="left">  
