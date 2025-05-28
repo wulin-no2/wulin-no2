@@ -1,7 +1,7 @@
 
-### Hi there 👋 I'm Lina!
+### Hi there 👋 
 
-- 🔭 I’m currently working on an exciting product called **Realmon Go**, designed to help people discover their non-human neighbours, like animals 🦥, birds 🐦, and plants 🍀 in the real world.
+- 🔭 Currently working on an exciting product called **Realmon Go**, designed to help people discover their non-human neighbours, like animals 🦥, birds 🐦, and plants 🍀 in the real world.
   - Hopefully, it’ll be as fun as Pokémon Go! 🥰
   - 🛠️ Tech stack: **React Native**, **Spring Boot/Java**, **MySQL**, **Docker**, and **AWS**.
   - 🚀 Planning to launch this year and attract a large user base!
