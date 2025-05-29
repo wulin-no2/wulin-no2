@@ -15,10 +15,14 @@
     
 
 - **Connect with me on [LinkedIn](https://www.linkedin.com/in/linawuthu/).**
-
+<!--
 <div align="left">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulin-no2&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulin-no2&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+-->
+<p align="left">
+<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulin-no2&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>  
 
 - 💬 Ask me about **User Growth** and 🏝️ **FIRE (Financial Independence, Retire Early)**!  
   - I know how to grow users fast via social media, and I also run a blog on early retirement with thousands of followers.
