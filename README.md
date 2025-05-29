@@ -3,12 +3,12 @@
 
 - 🔭 Currently working on an exciting product called **Realmon Go**, designed to help people discover their non-human neighbours, like animals 🦥, birds 🐦, and plants 🍀 in the real world.
   - Hopefully, it’ll be as fun as Pokémon Go! 🥰
-  - 🛠️ Tech stack: [**React Native**](https://github.com/wulin-no2/realmon-frontend), [**Spring Boot / Java)**](https://github.com/wulin-no2/realmon-backend), **MySQL**, **Docker**, and **AWS**.
+  - 🛠️ Tech stack: [**Java / Spring Boot**](https://github.com/wulin-no2/realmon-backend), [**React Native**](https://github.com/wulin-no2/realmon-frontend), **MySQL**, **Docker**, and **AWS**.
   - 🚀 Planning to launch this year and attract a large user base!
 
 - 💻 Other fun projects:
   - **DET-Quick**: A platform that helps users prepare for the Duolingo English Test, supporting 14+ question types.  
-    Built with [**React**](https://github.com/wulin-no2/det-quick) and **Spring Boot / Java** as a **full-stack developer**.  
+    Built with [**React**](https://github.com/wulin-no2/det-quick) and **Java / Spring Boot** as a **full-stack developer**.  
     Try it here 👉 [https://www.detquick.com](https://www.detquick.com)
     
   - **Sky-Takeout**: A takeout ordering system with both client and management interfaces built with [**Java**](https://github.com/wulin-no2/sky-take-out).
