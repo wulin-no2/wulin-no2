@@ -27,9 +27,9 @@
 - 💬 Ask me about **User Growth** and 🏝️ **FIRE (Financial Independence, Retire Early)**!  
   - I know how to grow users fast via social media, and I also run a blog on early retirement with thousands of followers.
 
-- 🥰 Reach out to me if you're a **hot nerd** ❤️
+<!--- 🥰 Reach out to me if you're a **hot nerd** ❤️
   - Wouldn't mind having a **partner** to build interesting products together.
-  - Of course, you could also reach out as a **recruiter** 🤣
+  - Of course, you could also reach out as a **recruiter** 🤣-->
  
 
 
